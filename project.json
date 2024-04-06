@@ -1,5 +1,5 @@
 {
-  "name": "UiPath Jenkins CICD Demo",
+  "name": "UiPath-Jenkins-CICD-Demo",
   "projectId": "54759ab8-0e83-4a9c-87ae-9d0dc5da8a56",
   "description": "CICD Demo Process with Jenkins",
   "main": "Main.xaml",
